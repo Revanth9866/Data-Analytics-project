@@ -23,7 +23,7 @@ for i,job_title in enumerate(job_titles):
 
 plt.show()    
 ```
-### Results
+#### Results
 
 ![Visualization of Top Skills](2_Project\images\skill_demand_all_data_roles.png)
 
