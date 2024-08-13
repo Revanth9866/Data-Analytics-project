@@ -129,7 +129,7 @@ In_demand skills for Data Analysts in the US:
 
 - Salary Discrepancy Between Demand and Specialization: There is a noticeable salary gap between high-demand skills and high-paying skills. While foundational skills such as python and sql are essential and highly sought after, they do not offer the same salary potential as more specialized and emerging technologies like hugging face or solidity. This suggests that acquiring niche, emerging skills may offer a better return on investment for data analysts looking to maximize their earning potential.
 
-## 4. What is the most optimal skill to learn for Data Analyts?
+## 5. What is the most optimal skill to learn for Data Analyts?
 
 ### Visualize Data
 ```python
