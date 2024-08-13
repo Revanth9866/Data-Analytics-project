@@ -23,7 +23,7 @@ for i,job_title in enumerate(job_titles):
 
 plt.show()    
 ```
-#### Results
+## Results
 
 ![Visualization of Top Skills](2_Project\images\skill_demand_all_data_roles.png)
 
@@ -58,7 +58,7 @@ for i in range(5):
 plt.show()    
 
 ```
-### Results
+## Results
 
 ![Trending Top Skills ffor Data Analyts in the US](2_Project\images\skill_trend_DA.png)
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
