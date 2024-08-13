@@ -5,7 +5,7 @@
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targetting.
 
-view my notebook with detailed steps here: [2_Skill_Demand.ipynb](3_Project\2_Skill_Demand.ipynb)
+view my notebook with detailed steps here: [2_Skill_Demand.ipynb](2_Project\2_Skill_Demand.ipynb)
 
 
 ### Visualize Data
@@ -25,7 +25,7 @@ plt.show()
 ```
 ### Results
 
-![Visualization of Top Skills](3_Project\images\skill_demand_all_data_roles.png)
+![Visualization of Top Skills](2_Project\images\skill_demand_all_data_roles.png)
 
 ### Insights
 
@@ -60,7 +60,7 @@ plt.show()
 ```
 ### Results
 
-![Trending Top Skills ffor Data Analyts in the US](3_Project\images\skill_trend_DA.png)
+![Trending Top Skills ffor Data Analyts in the US](2_Project\images\skill_trend_DA.png)
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -90,7 +90,7 @@ plt.show()
 ```
 
 ### Results 
-![Salary Distributions of Data Jobs in the US](3_Project\images\salary_DA.png)
+![Salary Distributions of Data Jobs in the US](2_Project\images\salary_DA.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -119,7 +119,7 @@ sns.barplot(data=df_DA_skills,x = 'median',y = df_DA_skills.index, ax= ax[1], hu
 ### Results
 In_demand skills for Data Analysts in the US:
 
-![The highest paid & most in-demand skills for dataa Analysts in the US](3_Project\images\Highpaid_and_Most_in-demand_Skills_for_DA.png)
+![The highest paid & most in-demand skills for dataa Analysts in the US](2_Project\images\Highpaid_and_Most_in-demand_Skills_for_DA.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -155,7 +155,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skillss for Data Analysts in the US](3_Project\images\Most_Optimal_Skills.png)
+![Most Optimal Skillss for Data Analysts in the US](2_Project\images\Most_Optimal_Skills.png)
 *A scatter plot visualizing the most optimal skills for data analysts in the us.*
 
 
