@@ -100,7 +100,7 @@ plt.show()
 
 - Data Analysts' Salary: Data Analysts, both senior and junior, have the lowest median salaries among the roles shown. The distribution is more compact, with fewer outliers, indicating less variation in earnings within this role compared to other positions in the data field.
 
-# 4. How Well do jobs and skills pay for the Data Analysts?
+## 4. How Well do jobs and skills pay for the Data Analysts?
 ## Highest Paid & Most Demanded Skills for Data Analysts
 
 ### Visualize Data
